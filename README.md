@@ -33,7 +33,7 @@ A bi-directional Yoruba ↔ Emoji machine translation system built with Python a
 - Evaluated on a curated 100-word dataset + human feedback.
 
 ##  Demo
-👉 Streamlit App Link: https://samueladedeji190-yoruba-emoji-translation-system-app-wx6in2.streamlit.app/
+👉 Streamlit App Link: https://yoruba-emoji-translation-system-ck7vzjfvwyewhzypzkvf3g.streamlit.app/
 
 ## Run locally with:
 bash

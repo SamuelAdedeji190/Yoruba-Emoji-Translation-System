@@ -14,7 +14,7 @@ st.set_page_config(page_title="Bi-Directional Yoruba ↔ Emoji Translator",
                    layout="centered")
 
 # Banner
-st.image("banner.png.jpeg", use_container_width=True)
+st.image("banner.png", use_container_width=True)
 
 # Sidebar (About Author)
 st.sidebar.image("author.jpg.PNG", caption="👤 Samuel Babatunde Adedeji", use_container_width=True)
@@ -108,4 +108,5 @@ else:
    
     # Footer
     st.markdown("---")
+
     st.caption("🚀 Developed by *Samuel Babatunde Adedeji* | Yoruba ↔ Emoji Translator | CSV-driven rule-based NLP project.")
